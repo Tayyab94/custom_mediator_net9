@@ -1,0 +1,12 @@
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\bin\Release\net9.0\MyCustomerMediator.deps.json
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\bin\Release\net9.0\MyCustomerMediator.dll
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\bin\Release\net9.0\MyCustomerMediator.pdb
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.csproj.AssemblyReference.cache
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.AssemblyInfoInputs.cache
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.AssemblyInfo.cs
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.dll
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\refint\MyCustomerMediator.dll
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\MyCustomerMediator.pdb
+C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\obj\Release\net9.0\ref\MyCustomerMediator.dll

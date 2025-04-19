@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyCustomMediator</id>
+    <version>1.0.0</version>
+    <authors>Tayyab Bhatti</authors>
+    <description>MyCustomMediator is a lightweight library that simplifies the implementation of the Mediator pattern in .NET applications.</description>
+    <repository type="git" url="https://github.com/tayyab94" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="9.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\tayya\source\Repos\MyCustomerMediator\MyCustomerMediator\bin\Release\net9.0\MyCustomerMediator.dll" target="lib\net9.0\MyCustomerMediator.dll" />
+  </files>
+</package>

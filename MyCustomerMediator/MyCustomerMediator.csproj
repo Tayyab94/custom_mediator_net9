@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <PackageId>MyCustomMediator</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Tayyab Bhatti</Authors>
+	  <Company>Senior Software Developer</Company>
+	  <Description>MyCustomMediator is a lightweight library that simplifies the implementation of the Mediator pattern in .NET applications.</Description>
+	  <RepositoryUrl>https://github.com/tayyab94</RepositoryUrl>
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.4" />
+  </ItemGroup>
+
+</Project>
